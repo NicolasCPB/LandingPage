@@ -24,3 +24,13 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* Smooth scrolling global */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Offset para compensar o header fixo */
+section[id] {
+  scroll-margin-top: 80px;
+}
