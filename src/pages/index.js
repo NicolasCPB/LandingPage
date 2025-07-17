@@ -384,9 +384,9 @@ export default function Home() {
               <div>
                 <h5 className="font-semibold mb-4">Contato</h5>
                 <ul className="space-y-2 text-gray-400">
-                  <li>(11) 99999-9999</li>
+                  <li>(48) 98409-9001</li>
                   <li>contato@smarthomepro.com.br</li>
-                  <li>São Paulo - SP</li>
+                  <li>São José - SC</li>
                 </ul>
               </div>
               <div>
@@ -405,7 +405,7 @@ export default function Home() {
               </div>
             </div>
             <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-              <p>&copy; 2024 SmartHome Pro. Todos os direitos reservados.</p>
+              <p>&copy; 2025 SmartHome Pro. Todos os direitos reservados.</p>
             </div>
           </div>
         </footer>
